@@ -1,7 +1,7 @@
 ## Hello World
 My name is Guilherme Valença! I'm a computer science and software engineer major who is largely interested in open source, artificial intelligence, and backend devlopment.
 
-[PT-BR] Meu nome é Guilherme Valença! Sou formado em ciência da computação e engenharia de software e tenho grande interesse em código aberto, inteligência artificial e desenvolvimento backend.
+[PT-BR] Meu nome é Guilherme Valença! Sou estudante de ciência da computação e engenharia de software e tenho grande interesse em códigos open source, inteligência artificial e desenvolvimento backend.
 
 ## 🌎 Languages:
 - **English (🇺🇸)** - Scroll down for the Portuguese version.
